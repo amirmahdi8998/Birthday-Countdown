@@ -16,17 +16,23 @@
 </p>
 
 <p align="center">
-  🎥[Live Demo](https://birthday-countdown-rkuj.onrender.com)
-
-
+  🎥 <a href="https://birthday-countdown-rkuj.onrender.com" target="_blank">Live Demo</a>
 </p>
 
 ---
 
 🌟 Why You'll Love It:
-<p align="center"> - **Interactive UI**: Watch the clock tick down to the big day with exciting animations and a lively design. - **Responsive Design**: It works beautifully on both desktop and mobile devices. - **Personalized Touch**: Add your own images, themes, and more to make it uniquely yours. </p>
+<p align="center"> 
+  - **Interactive UI**: Watch the clock tick down to the big day with exciting animations and a lively design. 
+  - **Responsive Design**: It works beautifully on both desktop and mobile devices. 
+  - **Personalized Touch**: Add your own images, themes, and more to make it uniquely yours. 
+</p>
+
 🧑‍💻 Contribute:
-<p align="center"> This project is always open to contributions! If you have ideas to make the countdown even more fun or have a feature to suggest, feel free to fork and send pull requests. </p>
+<p align="center"> 
+  This project is always open to contributions! If you have ideas to make the countdown even more fun or have a feature to suggest, feel free to fork and send pull requests. 
+</p>
+
 ✨ Enjoy the Countdown!
 
 This will center the text and make it visually more appealing for your GitHub README. Feel free to adjust the colors and fonts further using Markdown, HTML, or CSS if you'd like!
