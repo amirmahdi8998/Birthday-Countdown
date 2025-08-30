@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  [🎥 **Live Demo**](#)
+  🎥 [Live Demo](#)
 </p>
 
 ---
